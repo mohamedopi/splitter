@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Bookmark Splitter</string>
+    <string name="err_no_next">Can\'t save next to this file. Choose a folder instead.</string>
+    <string name="err_no_tree">No save folder is selected or its permission has expired. Choose the folder again.</string>
+    <string name="err_mkdir">Couldn\'t create the folder.</string>
+    <string name="err_prepare">Couldn\'t prepare the save location: %1$s</string>
+    <string name="err_create_file">Couldn\'t create the file %1$s</string>
+    <string name="err_open_file">Couldn\'t open the file for writing: %1$s</string>
+    <string name="err_create_file_detail">Couldn\'t create the file %1$s: %2$s</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- ورقة مطوية الزاوية -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,28 L58,28 L74,44 L74,80 L34,80 Z" />
+    <path
+        android:fillColor="#D4D4D8"
+        android:pathData="M58,28 L58,44 L74,44 Z" />
+    <!-- خط القص -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#09090B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M40,62 L68,62" />
+    <path
+        android:fillColor="#09090B"
+        android:pathData="M40,52 L56,52 L56,55 L40,55 Z" />
+    <path
+        android:fillColor="#09090B"
+        android:pathData="M40,70 L60,70 L60,73 L40,73 Z" />
+</vector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قصّاص الفهرس</string>
+    <string name="err_no_next">لا يمكن الحفظ بجانب هذا الملف، اختر مجلدًا.</string>
+    <string name="err_no_tree">لم يُحدد مجلد الحفظ أو انتهت صلاحيته، اختر المجلد من جديد.</string>
+    <string name="err_mkdir">تعذّر إنشاء المجلد.</string>
+    <string name="err_prepare">تعذّر تجهيز مكان الحفظ: %1$s</string>
+    <string name="err_create_file">تعذّر إنشاء الملف %1$s</string>
+    <string name="err_open_file">تعذّر فتح الملف للكتابة %1$s</string>
+    <string name="err_create_file_detail">تعذّر إنشاء الملف %1$s: %2$s</string>
+</resources>
